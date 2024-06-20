@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/coffee/coffee.dmenu>
 # Coffee theme -- dmenu
 
 Coffee is a nice, warm colour scheme for software
